@@ -23,10 +23,10 @@
   
    ⚖️ I have my own blog (ScalaStack):
    
-    where I'm demystifying Scala language concepts, data structures and algorithms 
-    Also explaining ( Akka Ecosystem , Cats/Cats effect ,Kafka)
-    With hands on coding projects with Explanation
-    Daily upload Scala Quizzes , Exercises and Coding challenges with Explanation
+     - where I'm demystifying Scala language concepts, data structures and algorithms 
+     - Explaining ( Akka Ecosystem , Cats/Cats effect ,Kafka)
+     - With hands on coding projects with Explanation
+     - Daily upload Scala Quizzes , Exercises and Coding challenges with Explanation
 
 - ⚡ Quotes I Follow in Life:
  
