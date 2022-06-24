@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmoudessam5588/mahmoudessam5588](https://github.com/mahmoudessam5588/mahmoudessam5588)
 
-- 💬 Ask me about **Scala And It's libraries And FramWorks**
+- 💬 Ask me about **Scala And It's libraries And FrameWorks**
 - 🍁 My Personal Blog :
 
 - 📫 How to reach me **mahmoudessam.me@gmail.com**
