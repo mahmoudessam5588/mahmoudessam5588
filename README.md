@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Essam</h1>
 <h3 align="center">I'm A Self Taught Software Engineer From Egypt</h3>
+<img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudessam5588&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudessam5588" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudessam5588" alt="mahmoudessam5588" /></a> </p>
 
 - 🌱 I’m currently learning **Scala,Akka,Cats/Cats Effect,Kafka**
 
