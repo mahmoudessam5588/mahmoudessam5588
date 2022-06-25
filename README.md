@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for Job **Scala Software Engineer/Developer In My Country Or Remotly**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahmoudessam5588/mahmoudessam5588](https://github.com/mahmoudessam5588/mahmoudessam5588)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mahmoudessam5588/mahmoudessam5588)
 
 - 💬 Ask me about **Scala And It's libraries And FrameWorks**
 - 🍁 My Personal Blog :
