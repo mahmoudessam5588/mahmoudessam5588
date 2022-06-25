@@ -1,7 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg)
 <h1 align="center">Hi 👋, I'm Mahmoud Essam</h1>
 <h3 align="center">I'm A Self Taught Software Engineer From Egypt</h3>
-<img align ="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
+<img align ="right" alt="Coding" width="400" src="https://www.elnino.tech/uploads/after-effects-done.gif">
 
 
 
@@ -20,6 +20,11 @@
   I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area        Manager to follow my Passion in Software Programming
    I Have Learned (Java,Python,Scala) and other software developments fundamentals and prerequisites before embracing
     the functional programming paradigm of Scala and It's Frameworks , libraries and ecosystem
+    
+ 
+ - <img align ="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
+
+    
   
    ⚖️ I have my own blog (ScalaStack):
    
@@ -50,6 +55,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudessam5588&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudessam5588" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudessam5588" alt="mahmoudessam5588" /></a> </p>
+ - <img align ="right" alt="Coding" width="400" src="https://d33wubrfki0l68.cloudfront.net/02fb31443b2b4a55ad03aa767ba58b044f1de489/35906/images/svg-vs-gif--sprout-chart.svg">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/
