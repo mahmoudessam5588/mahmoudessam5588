@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mahmoudessam5588/mahmoudessam5588)
 
 - 💬 Ask me about **Scala And It's libraries And FrameWorks**
-- 🍁 My Personal Blog : [Scala-Stack-Blog](https://mahmoudessam5588.github.io/Scala-Stack-Blog/)
+- 🍁 My Personal Blog : [Scala Stack Garden](https://mahmoudessam5588.github.io/quartz/)
 
 - 📫 How to reach me **mahmoudessam.me@gmail.com**
 - 💎 More About Me:
@@ -26,7 +26,7 @@
 
     
   
-   ⚖️ I have my own blog [Scala-Stack-Blog](https://github.com/mahmoudessam5588/Scala-Stack-Blog/):
+   ⚖️ I have my own blog [Scala Stack Garden](https://mahmoudessam5588.github.io/quartz/):
    
      - Where I'm demystifying Scala language concepts, data structures and algorithms 
      - Explaining ( Akka Ecosystem , Cats/Cats effect ,Kafka)
