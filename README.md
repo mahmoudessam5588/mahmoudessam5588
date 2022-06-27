@@ -18,7 +18,7 @@
 - 💎 More About Me:
  
   I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area        Manager to follow my Passion in Software Programming
-   I Have Learned (Java,Python,Sql) and other software developments fundamentals and prerequisites before embracing
+   I taught myself (Java,Python,Sql) and other software developments fundamentals and prerequisites before embracing
     the functional programming paradigm of Scala and It's Frameworks , libraries and ecosystem
     
  
