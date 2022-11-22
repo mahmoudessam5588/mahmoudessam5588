@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Scala,Akka,Cats/Cats Effect,Kafka**
+- 🌱 I’m currently learning **Scala,Java,Akka,SpringBoot**
 
 - 🤝 I’m looking for Job **Scala Software Engineer/Developer In My Country Or Remotly**
 
@@ -18,8 +18,8 @@
 - 💎 More About Me:
  
   I'm a self-taught Software Engineer From Egypt,who has decided to make a carrier shift from Retail Pharmaceutical Chains Industry as a former Area        Manager to follow my Passion in Software Programming
-   I taught myself (Java,Python,Sql) and other software developments fundamentals and prerequisites before embracing
-    the functional programming paradigm of Scala and It's Frameworks , libraries and ecosystem
+   I taught myself (Scala,Java,Akka,SpringBoot) and other software developments fundamentals and prerequisites before embracing
+    the functional programming paradigm of Scala/Java and It's Frameworks , libraries and ecosystem
     
  
  - <img align ="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
@@ -65,9 +65,8 @@
 <p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/
  </a> </p>
 
-![image](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![image](https://img.shields.io/badge/AKKA-Ecosystem-blue)
-![image](https://img.shields.io/badge/Cats-CatsEffect-red)
+![image](https://img.shields.io/badge/Spring-SpringBoot-red)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) 
 
 
